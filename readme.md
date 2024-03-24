@@ -1,6 +1,6 @@
 
 <p align="center">
-<video muted="" controls="" loop="" class="w-full"><source src="https://s3-us-west-2.amazonaws.com/assets.streamlit.io/videos/hero-video.mp4"></video>
+  <img src="https://s3-us-west-2.amazonaws.com/assets.streamlit.io/videos/hero-video.mp4" alt="Video" width="500" height="300">
 </p>
 <h1 align="center"> TweetAi </h1>
 
